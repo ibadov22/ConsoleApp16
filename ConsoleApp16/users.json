@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "murad",
+    "Surname": "muradli",
+    "Age": 20,
+    "Email": "murad2020@gmail.com",
+    "Password": "murad2020",
+    "LikedPosts": []
+  },
+  {
+    "Name": "murad",
+    "Surname": "muradli",
+    "Age": 23,
+    "Email": "mur@gmail.com",
+    "Password": "murad1234",
+    "LikedPosts": [
+      "Hello World"
+    ]
+  },
+  {
+    "Name": "murad",
+    "Surname": "muradli",
+    "Age": 23,
+    "Email": "murad1234@gmail.com",
+    "Password": "murad1234",
+    "LikedPosts": [
+      "Hello World"
+    ]
+  }
+]
